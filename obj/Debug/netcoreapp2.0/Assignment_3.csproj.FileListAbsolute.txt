@@ -1,0 +1,10 @@
+C:\Users\Shyn4\Documents\International\RAWDATA\Week 5\Assignment_3\bin\Debug\netcoreapp2.0\Assignment_3.deps.json
+C:\Users\Shyn4\Documents\International\RAWDATA\Week 5\Assignment_3\bin\Debug\netcoreapp2.0\Assignment_3.runtimeconfig.json
+C:\Users\Shyn4\Documents\International\RAWDATA\Week 5\Assignment_3\bin\Debug\netcoreapp2.0\Assignment_3.runtimeconfig.dev.json
+C:\Users\Shyn4\Documents\International\RAWDATA\Week 5\Assignment_3\bin\Debug\netcoreapp2.0\Assignment_3.dll
+C:\Users\Shyn4\Documents\International\RAWDATA\Week 5\Assignment_3\bin\Debug\netcoreapp2.0\Assignment_3.pdb
+C:\Users\Shyn4\Documents\International\RAWDATA\Week 5\Assignment_3\obj\Debug\netcoreapp2.0\Assignment_3.csproj.CoreCompileInputs.cache
+C:\Users\Shyn4\Documents\International\RAWDATA\Week 5\Assignment_3\obj\Debug\netcoreapp2.0\Assignment_3.AssemblyInfoInputs.cache
+C:\Users\Shyn4\Documents\International\RAWDATA\Week 5\Assignment_3\obj\Debug\netcoreapp2.0\Assignment_3.AssemblyInfo.cs
+C:\Users\Shyn4\Documents\International\RAWDATA\Week 5\Assignment_3\obj\Debug\netcoreapp2.0\Assignment_3.dll
+C:\Users\Shyn4\Documents\International\RAWDATA\Week 5\Assignment_3\obj\Debug\netcoreapp2.0\Assignment_3.pdb
